@@ -1,0 +1,24 @@
+{
+  "name": "fastest-slide",
+  "version": "0.0.1",
+  "description": "Application made to compete at sliding down a pyramid; to win the app needs to take the fastest path to the bottom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjrobotham/fastest-slide.git"
+  },
+  "keywords": [
+    "fastest",
+    "slide",
+    "pyramid"
+  ],
+  "author": "Julian Robotham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjrobotham/fastest-slide/issues"
+  },
+  "homepage": "https://github.com/jjrobotham/fastest-slide#readme"
+}
